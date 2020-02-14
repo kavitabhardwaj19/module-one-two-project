@@ -1,0 +1,52 @@
+/* Basic CSS Styling */
+html {
+  font-family: courier, Helevetica, sans-serif;
+  text-align: center;
+  background-color: #FFA07A;
+}
+
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  font-size: 40px;
+  font-style: oblique;
+  text-decoration: underline;
+}
+
+input {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 200px;
+  height: 30px;
+  font-size: 30px;
+  border: 0;
+  text-align: center;
+}
+
+input:focus {
+  outline: none;
+}
+
+p {
+  padding-top: 30px;
+  font-size: 40px;
+  border: 0;
+  text-align: center;
+}
+
+button {
+  text-align: center;
+  background-color: #FDEDEC;
+  font-size: 20px;
+}
+
+li {
+  text-align: left;
+  font-size: 30px;
+  font-family: sans-serif;
+  list-style: none;
+  margin: 0;
+}
